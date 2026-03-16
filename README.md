@@ -1,0 +1,1 @@
+# Gerenciador-de-Pulso-6.0-STK
